@@ -1,5 +1,8 @@
 # ELISA-logit
-Logit regression in Excel designed for ELISA tests. <br>
+
+Logit regression in Excel is especially designed for ELISA-tests and RIA's.<br>
+<img alt="Logit sheet" src="V01Sep2012.jpg" width="900" />
+
 The logit regression is suitable for calculating a sigmoidal (S-shaped) curve, up to an almost straight line, through data pairs. This form of calibration line occurs with dose-response curves that approach asymptotically to a maximum response. <br> 
 With the calculated parameters of the regression line, the response and the dilution of the unknown sample, the dose in a sample is calculated.  <br>
 An average dose is calculated for multiple measurements of the same sample. Parameters in the worksheet can be used to control the signaling of poor reproducibility of the average, extrapolation of the measurement area, significant digits and the creation of an export file. <br>
